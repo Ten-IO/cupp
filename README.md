@@ -52,6 +52,13 @@ Quick start
 
         -v      Version of the program
 
+You can just quick install it after clone this project  
+    
+    # Install cupp
+    pip install .
+
+    # Run cupp
+    cupp
 
 
 ## Configuration
